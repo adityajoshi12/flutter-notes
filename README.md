@@ -1,6 +1,6 @@
-# learning
+# Flutter Notes
 
-A new Flutter project.
+Notes Application using flutter and firebase.
 
 ## Getting Started
 
