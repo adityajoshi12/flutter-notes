@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "899793222767",
+    "firebase_url": "https://flutter-firebase-a0753.firebaseio.com",
+    "project_id": "flutter-firebase-a0753",
+    "storage_bucket": "flutter-firebase-a0753.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899793222767:android:0ec06801dc5ac752cc619a",
+        "android_client_info": {
+          "package_name": "com.example.learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899793222767-b7c6jhtr939jjgolrcogafshle58r55o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcGG-06_7cTtDtRunvQOfN7E9jlZKozL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899793222767-b7c6jhtr939jjgolrcogafshle58r55o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
